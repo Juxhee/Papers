@@ -11,3 +11,4 @@
 | **Date** |                                          **Title**                                          |      **Keyword**     |
 |:--------:|:-------------------------------------------------------------------------------------------:|:--------------------:|
 |  2020.12 | [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877) | knowledge distillation |
+|  2020 | [Generative Pretraining from pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) |image gpt |
