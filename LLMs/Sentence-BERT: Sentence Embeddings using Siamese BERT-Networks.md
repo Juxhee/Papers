@@ -10,6 +10,8 @@
    2) BERT의 모든 단어의 feature vector를 평균 pooling
    3) BERT의 모든 단어의 feature vector를 최대 pooling
       
+<br>
+
 
 <br>
 
@@ -19,10 +21,14 @@
 
 
 <br>
-- 동일한 layer, weight을 공유하는 network에 문장을 각각 넣어 나온 임베딩 벡터들의 거리를 비교하여 유사도를 계산
+- 동일한 layer, weight을 공유하는 network에 문장을 각각 넣어 나온 임베딩 벡터들의 거리를 비교하여 유사도를 계산 
+<br>
 - 비슷한 문장은 가깝고, 비슷하지 않은 문장은 멀게 학습하도록 함
+<br>
 - SNLI Dataset(Entailment, Neutral, Contradiction)으로 파인튜닝
+<br>
 - Classification(왼) : 두 문장 임베딩 값의 similarity 를 softmax 거쳐 확률값으로 바꾸고, cross entropy로 업데이트
+<br>
 - Regression(오) : 두 문장 임베딩 값의 similarity를 MSE로 업데이트
 
 
