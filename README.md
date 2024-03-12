@@ -6,6 +6,7 @@
 |  2022.01 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) | CoT |
 |  2023.02 | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) | Open Source LLM |
 |  2019.08 | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) | Sentence Embedding |
+|  2021.04 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) | Sentence Embedding |
 
 
 # Vision
